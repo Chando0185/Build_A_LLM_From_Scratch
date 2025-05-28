@@ -1,6 +1,6 @@
 # 🧠 Build an LLM from Scratch – YouTube Series
 
-Welcome to the official repository for the **"Build LLM from Scratch"** YouTube series by [Knowledge Doctor](https://www.youtube.com/@KnowledgeDoctor)! 🚀
+Welcome to the official repository for the **"Build LLM from Scratch"** YouTube series by [Knowledge Doctor](https://www.youtube.com/@knowledgedoctor3849)! 🚀
 
 In this hands-on series, we guide you step-by-step to build your own **Large Language Model (LLM)** from scratch using Python, NumPy, and PyTorch – all explained with simplicity and clarity.
 
